@@ -1,3 +1,10 @@
+## Live Demo
+Frontend: https://aigurukul.vercel.app/
+
+Backend: https://aigurukul-auth-1.onrender.com/
+
+Rag : https://aigurukul-rag.onrender.com/
+
 # AI Gurukul — Project Structure
 
 ```
